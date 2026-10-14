@@ -1,4 +1,4 @@
-### Hi, I'm Isaiah 👋
+### Hola, Visitor 🛸
 
 I study math at the University of Florida (math major, CS minor) and I'm working toward a career in machine learning. Before UF I spent three years in the Navy as an aircrewman on the P-8A Poseidon.
 
