@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<p align="center"> <img src="./assets/banner.gif" alt="P-8A in flight transitioning to a desk setup with code on screen" width="100%"> </p> <h2 align="center">Hi, I'm Isaiah</h2> <p align="center"> Applied math @ UF · Machine learning · Former Navy aircrewman </p> <p align="center"> <a href="https://www.linkedin.com/in/isaiahdiamond"><img src="https://img.shields.io/badge/LinkedIn-isaiahdiamond-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/badge/UF-Math%20%2B%20CS%20minor-FA4616" alt="UF"> <img src="https://img.shields.io/badge/Graduating-Dec%202027-333333" alt="Graduating Dec 2027"> </p>
+
 I study applied math at the University of Florida (math major, CS minor) and I'm working toward a career in machine learning. Before UF I spent three years in the Navy as an aircrewman on the P-8A Poseidon.
 
 I like building things, and most of what I make now starts as a fix for a problem in my own life.
