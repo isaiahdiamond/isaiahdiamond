@@ -10,7 +10,6 @@ I like building things, and most of what I make now starts as a fix for a proble
 - Building [intern-app](https://github.com/isaiahdiamond/intern-app), a local tool that finds internship listings and tracks my applications
 - Working through Karpathy's micrograd to GPT-2 series
 - Learning agents and MCP
-- Professionally Tokenmaxxing
 
 Also I built and shipped a mobile app, Suited Up a poker trainer!
 
