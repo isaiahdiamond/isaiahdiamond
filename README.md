@@ -1,7 +1,18 @@
-<p align="center"> <img src="./assets/banner.gif" alt="P-8A in flight transitioning to a desk setup with code on screen" width="100%"> </p> <h2 align="center">Hi, I'm Isaiah</h2> <p align="center"> Applied math @ UF · Machine learning · Former Navy aircrewman </p> <p align="center"> <a href="https://www.linkedin.com/in/isaiahdiamond"><img src="https://img.shields.io/badge/LinkedIn-isaiahdiamond-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <img src="https://img.shields.io/badge/UF-Math%20%2B%20CS%20minor-FA4616" alt="UF"> <img src="https://img.shields.io/badge/Graduating-Dec%202027-333333" alt="Graduating Dec 2027"> </p>
+### Hi, I'm Isaiah 👋
 
-I study applied math at the University of Florida (math major, CS minor) and I'm working toward a career in machine learning. Before UF I spent three years in the Navy as an aircrewman on the P-8A Poseidon.
+I study math at the University of Florida (math major, CS minor) and I'm working toward a career in machine learning. Before UF I spent three years in the Navy as an aircrewman on the P-8A Poseidon.
 
 I like building things, and most of what I make now starts as a fix for a problem in my own life.
 
-<p> <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React"> <img src="https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB" alt="React Native"> <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" alt="Expo"> <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white" alt="Tailwind"> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"> </p>
+![From the P-8 to the desk](./assets/banner.gif)
+
+**Right now**
+
+- Building [intern-app](https://github.com/isaiahdiamond/intern-app), a local tool that finds internship listings and tracks my applications
+- Working through Karpathy's micrograd to GPT-2 series
+- Learning agents and MCP
+- Professional Tokenmaxxer
+
+Also I built and shipped a mobile app, Suited Up a poker trainer!
+
+I code mostly in Python. Find me on [LinkedIn](https://www.linkedin.com/in/isaiahdiamond).
