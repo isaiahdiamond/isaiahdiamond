@@ -3,8 +3,8 @@
 I study math at the University of Florida (math major, CS minor) and I'm working toward a career in machine learning. Before UF I spent three years in the Navy as an aircrewman on the P-8A Poseidon.
 
 I like building things, and most of what I make now starts as a fix for a problem in my own life.
-![From the P-8 to the desk](<img width="800" height="450" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/f55b9d9f-33bc-4ac1-b3d8-a76c9e0c261a" />
-)
+![16-bit version of me getting of P8]<img width="800" height="450" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/94dde007-b68c-4141-b50c-fdc641b79894" />
+
 
 **Right now**
 
