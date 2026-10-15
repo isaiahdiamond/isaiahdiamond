@@ -3,7 +3,7 @@
 I study math at the University of Florida (math major, CS minor) and I'm working toward a career in machine learning. Before UF I spent three years in the Navy as an aircrewman on the P-8A Poseidon.
 
 I like building things, and most of what I make now starts as a fix for a problem in my own life.
-![16-bit version of me getting of P8]<img width="800" height="450" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/94dde007-b68c-4141-b50c-fdc641b79894" />
+![16-bit version of me getting of P8] <img width="400" height="275" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/94dde007-b68c-4141-b50c-fdc641b79894" />
 
 
 **Right now**
