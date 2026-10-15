@@ -14,4 +14,4 @@ Also I built and shipped a mobile app, Suited Up a poker trainer!
 
 I code mostly in Python. Find me on [LinkedIn](https://www.linkedin.com/in/isaiahdiamond).
 
-![16-bit version of me getting of P8]<img width="800" height="450" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/94dde007-b68c-4141-b50c-fdc641b79894" />
+<img width="800" height="450" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/94dde007-b68c-4141-b50c-fdc641b79894" />
