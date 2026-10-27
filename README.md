@@ -6,12 +6,9 @@ I like building things, and most of what I make now starts as a fix for a proble
 
 **Right now**
 
-- Building [intern-app](https://github.com/isaiahdiamond/intern-app), a local tool that finds internship listings and tracks my applications
-- Working through Karpathy's micrograd to GPT-2 series
+- Working through Karpathy's micrograd to GPT-2 series and building Viking-GPT which will be a LLM that responds like a viking!
 - Learning agents and MCP
 
 Also I built and shipped a mobile app, Suited Up a poker trainer!
 
 I code mostly in Python. Find me on [LinkedIn](https://www.linkedin.com/in/isaiahdiamond).
-
-<img width="800" height="450" alt="ezgif com-optimize" src="https://github.com/user-attachments/assets/94dde007-b68c-4141-b50c-fdc641b79894" />
